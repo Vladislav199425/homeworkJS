@@ -1,0 +1,14 @@
+html,
+body {
+    font-family: serif;
+}
+
+body {
+    margin: 20px;
+}
+
+.css-1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}

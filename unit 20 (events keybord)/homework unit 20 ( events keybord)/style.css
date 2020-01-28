@@ -1,0 +1,88 @@
+.container  {
+    width: 100%;
+}
+
+section {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #444;
+}
+
+.block {
+    width: 75px;
+    height: 75px;
+    margin: 25px;
+    border: 2px solid #333;
+}
+
+.active {
+    background: orange;
+}
+
+.hide {
+    display: none;
+}
+.keyboard {
+   border:  2px solid black;
+   padding: 10px;
+   border-radius: 4px;
+   position: relative;
+}
+.line::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.key {
+    float: left;
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin: 3px;
+    padding: 4px;
+    text-align: center;
+    line-height: 32px;
+}
+
+.backpace{
+    width: auto;
+}
+.tab {
+    width: auto;
+}
+.CapsLock {
+    width: auto;
+}
+.Enter {
+    width: auto;
+}
+.Shift {
+    width: auto;
+}
+.Ctrl {
+    width: auto;
+}
+.Alt {
+    width: auto;
+}
+.Space {
+    width: auto;
+}
+.up {
+    width: auto;
+}
+.down {
+    width: auto;
+}.left {
+    width: auto;
+}.right {
+    width: auto;
+}
+.windowS {
+    width: auto;
+}
+.black {
+ background-color: black ;
+ opacity: .3;
+}

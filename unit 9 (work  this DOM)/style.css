@@ -1,0 +1,49 @@
+html,
+body {
+    font-family: serif;
+    margin: 0 auto;
+
+}
+
+.u-1 {
+    background: red;
+}
+
+
+body {
+    margin: 20px auto;
+}
+
+.css-1 {
+    background: green;
+}
+
+.css-2 {
+    background: #c0c0c0;
+}
+
+.css-3 {
+    background: yellow;
+}
+
+.css-4 {
+    background: orange;
+}
+
+.css-111 {
+    background: orange;
+}
+
+.css-5 {
+    background: red;
+}
+
+.active {
+    border: 2px solid black;
+}
+
+.butt20 {
+    /* border: 2px solid black; */
+    margin: o auto;
+    text-align: center;
+}
